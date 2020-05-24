@@ -1,10 +1,4 @@
-// koristit .map za array i koristit mapreduce
-// file text treba provariti (parsati, parseint) i obraditi
-
-
-function suggestionTool(currentText){
-    //
-    //
+function searchEngine() {
 }
 
-console.log(suggestionTool("I am"))
+module.exports = searchEngine;
